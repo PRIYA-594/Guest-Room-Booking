@@ -1,0 +1,58 @@
+[
+    {
+        "name": "AVANA resort Room near ooty",
+        "ownerid":"668ea71a0cc9413f64701e09",
+        "squareFeet": 1000,
+        "minimumBook": 1,
+        "maximumBook": 2,
+        "rentPerDay": 1000,
+        "type": "Deluxe",
+        "description": "A luxurious room with a king-sized bed, spacious bathroom, and a beautiful view.",
+        "imageUrls": [
+            "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3334/x_0,y_261,w_5000,h_2812,r_0,c_crop,q_80,fl_progressive/w_825,f_auto,c_fit/black-thunder---water-theme-park/Deluxe_Room_IST_Floor_with_Balcony_t1ka1x",
+            "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_260,w_5000,h_2813,r_0,c_crop,q_80,fl_progressive/w_825,f_auto,c_fit/black-thunder---water-theme-park/Deluxe_Room_Double_ddaoct"
+        ],
+        "currentBookings": [
+        
+        ],
+	"phone_number":9079868142,
+	"address":"Ooty main road, Mettupalayam, Coimbatore District, 641301 Mettuppālaiyam, India "
+    },
+    {
+        "name": "Krabi resort Room luxury grand",
+        "ownerid":"668ea71a0cc9413f64701e09",
+        "squareFeet": 2000,
+        "minimumBook": 1,
+        "maximumBook": 3,
+        "rentPerDay": 1100,
+        "type": "Standard",
+        "description": "A comfortable room with all the basic amenities for a pleasant stay.",
+        "imageUrls": [
+            "https://www.krabiresort.net/images/accommodation/luxury-grand/main-slide-01.jpg",
+            "https://www.krabiresort.net/images/accommodation/luxury-grand/main-slide-02.jpg"
+        ],
+        "currentBookings": [
+           
+        ],
+	"phone_number":7904988814,
+	"address":"Ooty main road, Mettupalayam, Coimbatore District, 641301 Mettuppālaiyam, India "
+    },
+    {
+        "name": "The suite Room, The Oberoi Beach resort sahl hasheeh",
+        "ownerid":"668ea71a0cc9413f64701e09",
+        "squareFeet": 5000,
+        "minimumBook": 2,
+        "maximumBook": 10,
+        "rentPerDay": 2500,
+        "type": "Suite",
+        "description": "A spacious suite with a separate living area, luxurious amenities, and an amazing view.",
+        "imageUrls": [
+            "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-sahl-hasheesh/suites/detail/deluxe-suites-724x407.jpg",
+            "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-sahl-hasheesh/suites/detail/superior-deluxe-suite.jpg?w=310&extension=webp&hash=618b49993238f8e65854fa595eabe53d",
+	     "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-sahl-hasheesh/suites/detail/superior-deluxe-suite-1.jpg?w=310&extension=webp&hash=ddd1d8e1813acf1b06153cefdfb08172"
+        ],
+        "currentBookings": [],
+	"phone_number":97901467871,
+	"address":"The Oberoi Beach Resort, Jalan Kayu Aya, Denpasar, Bali 80361, Indonesia."
+    }
+]
