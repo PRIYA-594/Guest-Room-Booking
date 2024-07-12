@@ -4,6 +4,7 @@ run the frontend and backend in separate terminal
 
 **to run frontend:**
    >>cd frontend
+
    >>npm start
 
 **to run backend:**
